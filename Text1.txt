@@ -1,0 +1,2 @@
+Implementing the "write" command
+Allows to write in a particular file.
