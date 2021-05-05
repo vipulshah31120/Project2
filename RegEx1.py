@@ -1,5 +1,5 @@
 import re
-regex = r"([a-zA-Z]) (\d+)"
+regex = r"([a-zA-Z]+) (\d+)"
 match = re.search(regex, 'I was born on dec 31')
 
 if match != None :
